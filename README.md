@@ -3,6 +3,9 @@
 CPU Game:-
 
 CPU is optimise. It hard to beat CPU.
-Two player also play.
+Two players can also play the game.
 
-![Uploading image.png…]()
+
+
+
+![Uploading Screenshot (1).png…]()
